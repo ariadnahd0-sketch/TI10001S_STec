@@ -1,1 +1,1 @@
-print("Este es el otro archivo")
+print("Este es el segundo archivo")
